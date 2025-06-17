@@ -1,7 +1,4 @@
 
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 3 Lesson 5, XML Assignment
-//Date of Completion: October 21st 2024
 //Description:This is a program where a user enters car information into input fields
 //and it will create an XML file with all the information while also updating the information.
 //It can also clear the file, and also added filters to see which is the newest car and the
