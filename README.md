@@ -62,6 +62,4 @@ CarInventoryXML/
 - Make sure the `inventory.xml` file is in the root project directory
 - You can customize `XMLReader.java` to support attributes or advanced features
 
-## 📄 License
 
-Free to use, modify, and learn from!
