@@ -2,7 +2,7 @@
 
 This Java desktop application lets users manage and display a car inventory using XML. The program reads car data from an XML file, parses it using Java’s DOM parser, and presents it in a simple GUI.
 
-## 💡 Features
+## 💡 Features 
 
 - 📄 Reads and parses car data from an `inventory.xml` file
 - 🧾 Displays car details (make, model, year, price, etc.)
